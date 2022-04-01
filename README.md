@@ -1,6 +1,6 @@
 Hello there
 
-I'm Akzhol. A junior software engineer from Kazakhstan passionate about programming, cybersecurity and blockchain.
+I'm junior software engineer from Kazakhstan passionate about programming, cybersecurity and blockchain.
 
 Currently working in USA startup as software engineer
 
