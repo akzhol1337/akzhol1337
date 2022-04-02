@@ -1,6 +1,6 @@
 Hello there
 
-Passionate about programming, cybersecurity and blockchain.
+Passionate about programming, cybersecurity, blockchain, UI/UX design.
 
 Currently working in USA startup as software engineer
 
