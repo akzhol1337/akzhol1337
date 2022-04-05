@@ -2,7 +2,7 @@ Hello there
 
 Passionate about programming, cybersecurity, blockchain, UI/UX design.
 
-Currently working in USA startup as software engineer
+Currently working in startup as software engineer
 
 Don't get pwned & stay safe,
 0x1337 
